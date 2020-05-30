@@ -1,3 +1,3 @@
 # Roflan_bot
-Distancionka\n
+#Distancionka
 Discord python bot
